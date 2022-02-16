@@ -33,6 +33,12 @@ background: white;
     list-style: none;
 }
 
+.nav-link {
+    font-size: 20pt;
+    color: black;
+    
+}
+
 #content { 
     margin-left: 200px;
     margin-top: -60px;
