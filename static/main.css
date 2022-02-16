@@ -23,7 +23,11 @@ body {
     padding-bottom: 10px;
 }
 
-.nav-link {
-width: 40px;
+.navbar {
+    position: fixed;
+    width: 180px;
+    background: rgba(34, 62, 139, 0.822);
+    height: 100%;
+    margin: 0px;
 
 }
